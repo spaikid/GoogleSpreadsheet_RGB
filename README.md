@@ -1,5 +1,5 @@
 # GoogleSpreadsheet_RGB
-Create background cell from 3 rgb input
+Create cell's background from 3 RGB input
 
 Script for AEC industry.
 To solve a problem during a routine task, I deploy this simple Google Apps Scripts to read the value from three cells and change the background colors of the selected cell.
